@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Perfumes>
+	<Perfume id="1">
+		<brand>Penshoppe</brand>
+		<name>Hustle Night Eau de Toilette</name>
+		<color>Black</color>
+		<price>₱314</price>
+		<size>50ml</size>
+		<year>2030</year>
+	</Perfume>
+
+	<Perfume id="2">
+		<brand>Penshoppe</brand>
+		<name>Lovestory Eau De Toilette</name>
+		<color>Gray</color>
+		<price>₱299</price>
+		<size>50ml</size>
+		<ingredients>
+			<ingredient>Black Pepper</ingredient>
+			<ingredient>Cardamom</ingredient>
+			<ingredient>Mint</ingredient>
+			<ingredient>Vanilla linger</ingredient>
+			<ingredient>Lavender</ingredient>
+		</ingredients>
+	</Perfume>
+
+	<Perfume id="3">
+		<brand>versace</brand>
+		<name>versace eros</name>
+		<color>Black</color>
+		<price>₱5,995</price>
+		<size>100ml</size>
+		<ingredients>
+			<ingredient>Alcohol</ingredient>
+			<ingredient>Denat. (Sd Alcohol 39 C)</ingredient>
+			<ingredient>Fragrance</ingredient>
+			<ingredient>Coumarin</ingredient>
+			<ingredient>Linalool</ingredient>
+		</ingredients>
+	</Perfume>
+
+	<Perfume id="4">
+		<brand>Dior</brand>
+		<name>SAUVAGE EAU DE TOILETTE</name>
+		<color>Blue</color>
+		<price>₱4,950 to ₱6,650</price>
+		<size>100ml</size>
+		<ingredients>
+			<ingredient>#12053A Alcohol</ingredient>
+			<ingredient>Aqua (Water)</ingredient>
+			<ingredient>Fragrance</ingredient>
+			<ingredient>Limonene</ingredient>
+			<ingredient>Linalool</ingredient>
+		</ingredients>
+	</Perfume>
+
+	<Perfume id="5">
+		<brand>Penshoppe</brand>
+		<name>Pumped Blue Eau De Toilette</name>
+		<color>Blue</color>
+		<price>₱349</price>
+		<size>100ml</size>
+		<ingredients>
+			<ingredient>Bergamot</ingredient>
+			<ingredient>Citrus</ingredient>
+			<ingredient>Green</ingredient>
+			<ingredient>Ozone</ingredient>
+			<ingredient>Aldehyde notes with Floral</ingredient>
+		</ingredients>
+	</Perfume>
+</Perfumes>
